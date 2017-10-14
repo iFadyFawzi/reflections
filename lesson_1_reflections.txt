@@ -1,0 +1,51 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was helpful because I can return to the old version of my project before what the update I just do it and find what's the code add cause problems or bugs.
+
+	It was helpful because I can know what the other developers on my team add to the old version to update it.
+	
+	
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    It was helpful because I can know how many times the file has chanaged and who edited it.
+
+    It was helpful because I can know what the updates have happend since the first version.
+
+    It was helpful because I can reuse that files as a reusable part of a big project.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros:
+    	1. like to document evey logical change to the project.
+    	2. chose when the right time of change need to commit.
+
+    cons:
+    	1. Thinking what the commit will be (What will write to describe it).
+    	2. There is not auto way if I forget to commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because if there are more than one file in relationship, will be a good idea to refer to the change once.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log show me all commits which represents every logical edit or change of files.
+
+    git diff show me the difference between two versions by using the commits id that shown by git log.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    The changes that could break something, I can find it and fix it by using git checkout command.
+
+    I can search for the bug using git log and git checkout untill find the commit that the bug happend with it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Next Lesson
