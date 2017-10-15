@@ -3,3 +3,7 @@ When would you want to create a remote repository rather than keeping all your w
   In the time I want to share my code with others.
   When I work with a team on the same file.
   Pair programming
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+  To be in control
